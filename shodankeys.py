@@ -7,7 +7,7 @@ import colorama
 import sys
 import os
 
-os.system("clear")
+os.system("cls")
 print("[🍳] Shodan Key Checker++")
 print("")
 
