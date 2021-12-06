@@ -22,12 +22,12 @@ python shodankeys.py keys.txt
 # [ 😂 change-log ]
 
 ### [0.1+]
-+ Visual upgrade
+ Visual upgrade
 
 ### [0.1] 
-+ Added saving results
-+ Freelancer & Small buisness now diff ;)
-+ Visual upgrade
+Added saving results
+Freelancer & Small buisness now diff ;)
+Visual upgrade
 
 # [ 🤡 credits ]
-+ UNOXS - Rework
+UNOXS - Rework
