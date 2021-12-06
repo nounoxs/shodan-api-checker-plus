@@ -5,6 +5,11 @@ from datetime import datetime
 from colorama import Fore
 import colorama
 import sys
+import os
+
+os.system("clear")
+print("[🍳] Shodan Key Checker++")
+print("")
 
 ctime = datetime.now()
 time = str(ctime.month) + "_" + str(ctime.day) + "_" + str(ctime.hour) + "_" + str(ctime.minute) + "_" + str(ctime.second)
