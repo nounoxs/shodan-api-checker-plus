@@ -26,7 +26,9 @@ python shodankeys.py keys.txt
 
 ### [0.1] 
 Added saving results
+ 
 Freelancer & Small buisness now diff ;)
+
 Visual upgrade
 
 # [ 🤡 credits ]
