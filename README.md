@@ -2,12 +2,9 @@
 
 # Shodan API Key Checker++
 # [ 🤯 info ]
-</div>
 
 #### Upgrade of [this](https://github.com/0x27/shodan_key_checker/blob/master/README.md) checker
 
-
-<div align="center">
 
 # [ 👦 usage]
 
