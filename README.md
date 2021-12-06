@@ -18,6 +18,9 @@ python shodankeys.py keys.txt
 ```
 # [ 😂 change-log ]
 
+### [0.2]
+ Added python 3.X support, use shodankeys3.py
+ 
 ### [0.1+]
  Visual upgrade
 
