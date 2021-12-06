@@ -10,7 +10,7 @@
 
 Install shodan module
 ```
-pip install shodan
+pip2 install shodan
 ```
 ur gold!
 ```
