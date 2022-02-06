@@ -1,5 +1,3 @@
-#!/usr/bin/python2
-# coding: utf-8
 import shodan
 from datetime import datetime
 from colorama import Fore
@@ -33,7 +31,7 @@ def test(key):
         paid_results_file.write(key + " | Plan: Small Buisness | Scan credits: " + str(info['scan_credits']) + "\n")
         return True,True
     elif info['plan'] == 'oss':
-        print Fore.BLUE + ("[~] Key " + key + " valid | Plan: Community")
+        print (Fore.BLUE + "[~] Key " + key + " valid | Plan: Community")
         results_file.write(key + " | Plan: Community | Scan credits: " + str(info['scan_credits']) + "\n")
         return True,False
 
